@@ -8,7 +8,8 @@ A MIDI Player for Roblox Piano.
 1. Click this -> If you are lazy to go to release page [RobMIDI](https://github.com/user-attachments/files/18351255/RobMIDI.zip)
 2. Extract them
 3. Convert a MiDi file first.
-4. then run runMacro.exe
+4. Configure song.txt. Configure the Tempo however you like, but do not make some changes on notes unless you know what you are doing. I only recommend the Tempo
+5. then run runMacro.exe
 
 ## Usage
 The use for this program is for entertainment. I don't really care whether you use it to cheat on piano servers or something, go do whatever you want
