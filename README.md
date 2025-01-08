@@ -5,7 +5,7 @@ A MIDI Player for Roblox Piano.
 (LMAO Yes, this is stolen from google. I'm lazy asfuck to create my own)
 
 ## Installation
-1. Click this -> If you are lazy to go to release page [RobMIDI](https://github.com/user-attachments/files/18351255/RobMIDI.zip)
+1. Click this -> If you are lazy to go to release page [RobMIDI.zip](https://github.com/user-attachments/files/18351353/RobMIDI.zip)
 2. Extract them
 3. Convert a MiDi file first.
 4. Configure song.txt. Configure the Tempo however you like, but do not make some changes on notes unless you know what you are doing. I only recommend the Tempo
